@@ -1,0 +1,15 @@
+D:\GetWords\bin\Debug\net7.0\GetWords.exe
+D:\GetWords\bin\Debug\net7.0\GetWords.deps.json
+D:\GetWords\bin\Debug\net7.0\GetWords.runtimeconfig.json
+D:\GetWords\bin\Debug\net7.0\GetWords.dll
+D:\GetWords\bin\Debug\net7.0\GetWords.pdb
+D:\GetWords\obj\Debug\net7.0\GetWords.csproj.AssemblyReference.cache
+D:\GetWords\obj\Debug\net7.0\GetWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\GetWords\obj\Debug\net7.0\GetWords.AssemblyInfoInputs.cache
+D:\GetWords\obj\Debug\net7.0\GetWords.AssemblyInfo.cs
+D:\GetWords\obj\Debug\net7.0\GetWords.csproj.CoreCompileInputs.cache
+D:\GetWords\obj\Debug\net7.0\GetWords.dll
+D:\GetWords\obj\Debug\net7.0\refint\GetWords.dll
+D:\GetWords\obj\Debug\net7.0\GetWords.pdb
+D:\GetWords\obj\Debug\net7.0\GetWords.genruntimeconfig.cache
+D:\GetWords\obj\Debug\net7.0\ref\GetWords.dll
